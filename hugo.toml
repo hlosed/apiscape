@@ -4,9 +4,13 @@ title = "Apiscape - Blog Nature"
 theme = "hugo-theme-cleanwhite"
 
 [params]
-  subtitle = "Paysages et hyménoptères"
+  # C'est ici que CleanWhite cherche le sous-titre et le logo
+  subtitle = "paysages et hyménoptères"
   description = "Mon carnet de bord sur la nature et les hérons"
   keyword = "Nature, Héron, Photographie"
   header_image = "img/home-bg.jpg"
+  
+  # Vérifie bien que ce fichier existe dans static/images/
   logo = "images/1000_F_282784013_zdcUkhfjq4aPHkGIW4iTFEDUDNe3XXWN.jpg"
+  
   github_username = "hlosed"
