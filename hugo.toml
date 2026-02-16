@@ -1,7 +1,4 @@
-﻿baseURL = 'https://hlosed.github.io/apiscape/'
+baseURL = 'https://hlosed.github.io/apiscape/'
 languageCode = 'fr-fr'
 title = 'Apiscape - Blog Nature'
 theme = 'PaperMod'
-
-[params]
-    description = "Mon carnet de bord sur la nature et les hérons"
