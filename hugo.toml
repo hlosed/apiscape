@@ -6,6 +6,5 @@ theme = "hugo-theme-cleanwhite"
 [params]
   subtitle = "Paysages et hyménoptères"
   description = "Mon carnet de bord sur la nature et les hérons"
-  header_image = "img/home-bg.jpg"
   logo = "images/logo.jpg"
   github_username = "hlosed"
