@@ -1,6 +1,7 @@
 baseURL = "https://hlosed.github.io/apiscape/"
 languageCode = "fr-fr"
 title = "Apiscape - Blog Nature"
+subtitle = "paysages et hyménoptères"
 theme = "hugo-theme-cleanwhite"
 
 [params]
@@ -8,3 +9,4 @@ theme = "hugo-theme-cleanwhite"
   description = "Mon carnet de bord sur la nature et les hérons"
   keyword = "Nature, Héron, Photographie"
   github_username = "hlosed"
+logo = "images/1000_F_282784013_zdcUkhfjq4aPHkGIW4iTFEDUDNe3XXWN.jpg"
