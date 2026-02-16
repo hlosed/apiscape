@@ -3,7 +3,7 @@
     <title>apiscape</title>
     <link href="https://hlosed.github.io/apiscape/feed.xml" rel="self" />
     <link href="https://hlosed.github.io/apiscape" />
-    <updated>2026-02-16T17:39:17+01:00</updated>
+    <updated>2026-02-16T17:40:50+01:00</updated>
     <author>
         <name>héloïse Doret</name>
     </author>
@@ -18,7 +18,15 @@
         <id>https://hlosed.github.io/apiscape/hello-everyone.html</id>
 
         <updated>2026-02-16T17:39:17+01:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    hellooo
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hellooo</p>
+            ]]>
+        </content>
     </entry>
 </feed>
