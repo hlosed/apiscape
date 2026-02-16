@@ -31,7 +31,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.128.0
+     - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.146.0' # On force la version demandée par PaperMod
+          extended: true
     steps:
       - name: Install Hugo CLI
         run: |
