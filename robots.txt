@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hlosed.github.io/apiscape/sitemap.xml

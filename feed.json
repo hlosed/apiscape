@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "apiscape",
+    "description": "",
+    "home_page_url": "https://hlosed.github.io/apiscape",
+    "feed_url": "https://hlosed.github.io/apiscape/feed.json",
+    "user_comment": "",
+    "icon": "https://hlosed.github.io/apiscape/media/website/logo.jpg",
+    "author": {
+        "name": "héloïse Doret"
+    },
+    "items": [
+    ]
+}
