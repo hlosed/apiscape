@@ -3,7 +3,7 @@
     <title>apiscape</title>
     <link href="https://hlosed.github.io/apiscape/feed.xml" rel="self" />
     <link href="https://hlosed.github.io/apiscape" />
-    <updated>2026-02-21T11:51:47+01:00</updated>
+    <updated>2026-02-21T12:08:21+01:00</updated>
     <author>
         <name>héloïse</name>
     </author>
@@ -16,6 +16,9 @@
         </author>
         <link href="https://hlosed.github.io/apiscape/obsnat-1-vallee-du-viroin-fevrier-2026.html"/>
         <id>https://hlosed.github.io/apiscape/obsnat-1-vallee-du-viroin-fevrier-2026.html</id>
+            <category term="paysage"/>
+            <category term="obsnat"/>
+            <category term="flora"/>
 
         <updated>2026-02-21T11:51:47+01:00</updated>
             <summary type="html">
